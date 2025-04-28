@@ -64,7 +64,7 @@
   <a href="https://github.com/Sketchyxa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/Sketchyxa">
+  <a href="https://t.me/Siriusatop123">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
