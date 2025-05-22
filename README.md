@@ -120,10 +120,10 @@ Other        1 hr 52 mins    ██░░░░░░░░░░░░░░░
   <a href="https://github.com/Sketchyxa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/Sketchyxa">
+  <a href="https://t.me/Siriusatop123">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/Sketchyxa">
+  <a href="https://discord.com/users/000sl">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
